@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizeDemo</string>
+    <string name="country">england</string>
+    <string name="switch_language">Switch Language</string>
+</resources>

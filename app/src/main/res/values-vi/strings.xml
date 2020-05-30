@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizeDemo</string>
+    <string name="country">Việt Nam</string>
+    <string name="switch_language">Đổi Ngôn Ngữ</string>
+</resources>
